@@ -161,6 +161,9 @@ c.url.searchengines = {'DEFAULT': 'https://www.google.com/search?q={}', 'duck': 
 #Set Dark mode:
 config.set('colors.webpage.darkmode.enabled', True)
 
+#Youtube disable autoplay videos
+config.set('content.autoplay', False)
+
 #Zoom In/Out
 config.set('zoom.default', '125')
 config.bind('<Ctrl+=>', ':zoom-in')
