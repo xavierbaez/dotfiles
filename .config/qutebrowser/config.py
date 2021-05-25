@@ -126,7 +126,6 @@ config.set('content.javascript.enabled', True, 'qute://*/*')
 #   - true
 #   - false
 #   - ask
-config.set('content.notifications', True, 'https://www.netflix.com')
 
 # Allow websites to register protocol handlers via
 # `navigator.registerProtocolHandler`.
