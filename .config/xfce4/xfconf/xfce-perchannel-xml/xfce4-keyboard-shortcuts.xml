@@ -65,7 +65,6 @@
       <property name="&lt;Super&gt;f" type="string" value="firefox"/>
       <property name="&lt;Super&gt;l" type="string" value="librewolf"/>
       <property name="&lt;Primary&gt;&lt;Super&gt;f" type="string" value="firefox"/>
-      <property name="&lt;Alt&gt;&lt;Super&gt;p" type="string" value="passmenu -fn &apos;FireCode-22&apos;"/>
       <property name="Calculator" type="string" value="galculator"/>
       <property name="&lt;Shift&gt;&lt;Super&gt;greater" type="string" value="move-to-next-monitor"/>
       <property name="&lt;Shift&gt;&lt;Super&gt;less" type="string" value="move-to-previous-monitor"/>
