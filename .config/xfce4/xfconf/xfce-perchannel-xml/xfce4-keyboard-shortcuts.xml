@@ -68,6 +68,7 @@
       <property name="Calculator" type="string" value="galculator"/>
       <property name="&lt;Shift&gt;&lt;Super&gt;greater" type="string" value="move-to-next-monitor"/>
       <property name="&lt;Shift&gt;&lt;Super&gt;less" type="string" value="move-to-previous-monitor"/>
+      <property name="&lt;Super&gt;grave" type="string" value="/home/xavier/.local/bin/dmenuunicode"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
