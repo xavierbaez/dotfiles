@@ -69,6 +69,7 @@
       <property name="&lt;Shift&gt;&lt;Super&gt;greater" type="string" value="move-to-next-monitor"/>
       <property name="&lt;Shift&gt;&lt;Super&gt;less" type="string" value="move-to-previous-monitor"/>
       <property name="&lt;Super&gt;grave" type="string" value="/home/xavier/.local/bin/dmenuunicode"/>
+      <property name="&lt;Alt&gt;&lt;Super&gt;p" type="string" value="passmenu -fn &apos;FireCode-22&apos;"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
